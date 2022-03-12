@@ -1,2 +1,2 @@
 # 3380_Normalization
-This is Normalization program that is build to determine whether the tables are normalized or not. 
+This is Normalization program that is build for Database Systems with Dr. Carlos Ordonez, Fall 2021.
