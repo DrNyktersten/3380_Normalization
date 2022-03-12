@@ -1,0 +1,8 @@
+{
+    "host": "3380db.xx.xx.xxx",
+    "user": "dbsxxx",
+    "password": "dbsxxx",
+    "port": 5432,
+    "database": "COSC3380"
+
+}
